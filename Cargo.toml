@@ -1,0 +1,7 @@
+[package]
+name = "ssubst"
+version = "0.1.0"
+authors = ["legeyda <1@w.ru>"]
+
+[dependencies]
+num="*"
